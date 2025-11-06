@@ -4,7 +4,7 @@ const config = {
     "city": "Merrickville",
     "cityStateZip": "Merrickville, Ontario K0G 1N0",
     "heroSubtitle": "Immerse yourself in the ultimate urban sanctuary – a breathtaking 4-bedroom Detached that redefines contemporary living. Boasting 2 beautifully appointed bathrooms and a generous 1150 sq ft of intelligently designed space, this home is a testament to modern architectural excellence. From the moment you step inside, you'll be captivated by the seamless flow, abundant natural light, and premium finishes that create an atmosphere of refined elegance and unparalleled comfort.",
-    "backgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1762273456211-Photos will be available wednesday.png"
+    "backgroundImageUrl": "https://i.ibb.co/p6fZdjKs/K-perny-k-p-2025-11-06-192130.png"
   },
   "realtor": {
     "fullName": "Nicole Garrett",
